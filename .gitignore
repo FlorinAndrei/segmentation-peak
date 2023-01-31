@@ -2,6 +2,7 @@
 
 !.gitignore
 !.gitattributes
+!autocommit.sh
 !bus_data.py
 !requirements.txt
 !segformer_single_class_fine_tune.ipynb
